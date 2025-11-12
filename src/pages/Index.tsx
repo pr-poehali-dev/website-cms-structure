@@ -33,10 +33,10 @@ const Index = () => {
           </h2>
           <div className="space-y-2">
             <p className="text-foreground">
-              <strong>ФИО:</strong> Иванов Иван Иванович
+              <strong>ФИО:</strong> Зырянов Никита Сергеевич
             </p>
             <p className="text-foreground">
-              <strong>Группа:</strong> ИС-101
+              <strong>Группа:</strong> БИ-2203
             </p>
             <p className="text-foreground">
               <strong>Тема работы:</strong> Системы управления контентом веб-сайтов
@@ -122,11 +122,11 @@ const Index = () => {
         <footer className="mt-12 border-t border-border pt-6">
           <div className="flex justify-end">
             <div className="text-right space-y-1">
-              <p className="text-foreground font-semibold">Иванов Иван Иванович</p>
+              <p className="text-foreground font-semibold">Зырянов Никита Сергеевич</p>
               <p className="text-muted-foreground flex items-center gap-2 justify-end">
                 <Icon name="Mail" size={16} />
-                <a href="mailto:ivanov@example.com" className="text-primary hover:underline">
-                  ivanov@example.com
+                <a href="mailto:CocoJamba51@yandex.ru" className="text-primary hover:underline">
+                  CocoJamba51@yandex.ru
                 </a>
               </p>
             </div>
