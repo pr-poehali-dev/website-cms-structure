@@ -19,7 +19,7 @@ const Index = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen">
       <div className="container mx-auto px-4 py-8 max-w-4xl">
         <header className="bg-primary text-primary-foreground p-8 rounded-lg mb-8 text-center">
           <h1 className="text-4xl font-bold mb-2">Управление контентом сайта: CMS</h1>
